@@ -1,0 +1,18 @@
+[
+    {
+        "role":"Assistant Manager",
+        "organisation":"Renuka Regency",
+        "startDate":"04/05/2023",
+        "endDate":"04/12/2023",
+        "Skills Gained":["Leadership and Management Skills","Customer Service Excellence"],
+        "imageSrc":"history/renukaLogo.ico"
+    },
+    {
+        "role":"Software Apprentice",
+        "organisation":"CDAC CINE",
+        "startDate":"08/12/2023",
+        "endDate":"Present",
+        "Skills Gained":["Programming Languages","Web Development","Database Management","Software Development Lifecycle"],
+        "imageSrc":"history/cdac.png"
+    }
+]
